@@ -8,3 +8,4 @@ ${wg} http://sourceforge.net/projects/pentaho/files/Business%20Intelligence%20Se
 ${wg} http://sourceforge.net/projects/mondrian/files/schema%20workbench/3.2.1-stable/psw-ce-3.2.1.13885.zip
 
 
+md5sum -c MD5SUM
